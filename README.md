@@ -14,7 +14,7 @@ For a basic example see [basic maven project](../maven-basic/README.md).
 
 ## Description
 
-This project consists of 3 modules.
+This project consists of 3 modules
 
 * [`module1`](module1/pom.xml) and [`module2`](module2/pom.xml) contain "business logic" and related unit tests.
 
